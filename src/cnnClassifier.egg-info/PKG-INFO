@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/LaboniSarkar9/kideney-Disease-Classification-ML-flow-DVC
+Author: LaboniSarkar9
+Author-email: labonisarkar288@gmail.com
+Project-URL: Bug Tracker, https://github.com/LaboniSarkar9/kideney-Disease-Classification-ML-flow-DVC/issues
+
+# Kidney-Disease-classification_MLflow_DVC
